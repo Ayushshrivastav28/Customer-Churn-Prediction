@@ -248,7 +248,7 @@ The two long command-lines have the same structure. They pipe multiple commands 
 
 ## Author :writing_hand:
 
-Andrew Obando
+Ayush Shrivastava
 
 <a href="https://www.linkedin.com/in/ayushshrivastava28"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ayush Shrivastava | LinkedIn"/></a>
 <a href="www.linkedin.com/in/ayushshrivastava28">
